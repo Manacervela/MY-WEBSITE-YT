@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;   
+   
+}
+
+.logo {
+    width: 300px; /* Ajusta el tamaño del logo cuando está en la barra de navegación */
+    height: auto; /* Mantén la relación de aspecto */
+    transition: opacity 0.3s ease; /* Agrega una transición suave para la opacidad */
+  }
+  
+  .logo-hidden {
+    opacity: 0; /* Oculta el logo cuando haces scroll hacia abajo */
+  }
