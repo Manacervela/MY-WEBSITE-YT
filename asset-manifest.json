@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12ba9734.css",
+    "main.js": "/static/js/main.81cccb73.js",
+    "static/media/Background.png": "/static/media/Background.9dcf60d77400d23f30ca.png",
+    "static/media/cake1.jpg": "/static/media/cake1.fb06f3a4c34f052b065e.jpg",
+    "static/media/cake4.png": "/static/media/cake4.1be2047261e49d873781.png",
+    "static/media/cake2.jpg": "/static/media/cake2.d36b9ed842124edb413b.jpg",
+    "static/media/cake5.jpg": "/static/media/cake5.eecd8fc3fc73068fa2e5.jpg",
+    "static/media/cake6.jpg": "/static/media/cake6.8cf72555360c937e29c3.jpg",
+    "static/media/cake3.jpg": "/static/media/cake3.41adabd7897efebffd1d.jpg",
+    "static/media/About.jpg": "/static/media/About.7b30162b57121aba4187.jpg",
+    "static/media/Brownie.jpg": "/static/media/Brownie.3e4367b3d3d70db45f76.jpg",
+    "static/media/donuts1.jpg": "/static/media/donuts1.98030f3e52e8832e0320.jpg",
+    "static/media/cinnamon2.jpg": "/static/media/cinnamon2.4953d69279680abfcc3b.jpg",
+    "static/media/cinamon.jpg": "/static/media/cinamon.de887c263c4527868893.jpg",
+    "static/media/brownie2.jpg": "/static/media/brownie2.02ca04abc616e219a3bc.jpg",
+    "static/media/brownie3.jpg": "/static/media/brownie3.f6dc69a8f4c448b290de.jpg",
+    "static/media/Howto.png": "/static/media/Howto.e6308c554ee4de039852.png",
+    "static/media/donuts2.jpg": "/static/media/donuts2.f320574cf280db1aa0c3.jpg",
+    "index.html": "/index.html",
+    "main.12ba9734.css.map": "/static/css/main.12ba9734.css.map",
+    "main.81cccb73.js.map": "/static/js/main.81cccb73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ba9734.css",
+    "static/js/main.81cccb73.js"
+  ]
+}
